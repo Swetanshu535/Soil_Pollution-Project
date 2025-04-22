@@ -1,0 +1,30 @@
+Case_ID,Region,Country,Pollutant_Type,Pollutant_Concentration,Soil_pH,Temperature_C,Humidity,Rainfall_mm,Crop_Type,Farming_Practice,Nearby_Industry,Water_Source,Soil_Texture,Soil_Organic,Disease_Type,Disease_Severity,Health_Symptoms,Age_Group,Gender_Most,Mitigation_Measure,Case_Resolved,Follow_Up
+CASE_100000,Africa,Pakistan,Lead,78.04,8.3,35.6,64.9,62.4,Wheat,Integrated,Mining,Well,Sandy,1.98,Gastrointestinal Disease,Moderate,Breathing Difficulty,Adults,Male,Government Regulation,No,Yes
+CASE_100001,Africa,Germany,Lead,16.33,7.96,31,73.1,8.2,Potato,Permaculture,Mining,Irrigation Canal,Silty,9.71,Cancer,Mild,Breathing Difficulty,Elderly,Both,Community Awareness,Yes,No
+CASE_100002,Europe,Germany,Lead,167.33,5.35,16.4,33.8,121.7,Soybean,Organic,Chemical,River,Clay,5.49,Gastrointestinal Disease,Severe,Nausea,Children,Both,Soil Remediation,Yes,No
+CASE_100003,Asia,USA,Lead,89.23,5.66,31.4,30.5,116.9,Wheat,Permaculture,None,Irrigation Canal,Silty,3.98,Neurological Disorder,Severe,Fatigue,Adults,Male,Community Awareness,Yes,No
+CASE_100004,Africa,India,Chromium,93.93,7.64,17,58.6,237,Cotton,Integrated,Chemical,Well,Loamy,0.94,Skin Disease,Moderate,Breathing Difficulty,Children,Female,Government Regulation,Yes,Yes
+CASE_100005,Europe,Nigeria,Lead,123.47,5.18,12.3,91.2,386.3,Soybean,Conventional,None,Rainwater,Loamy,8.18,Gastrointestinal Disease,Severe,Nausea,Adults,Both,Chemical Neutralization,Yes,Yes
+CASE_100006,Asia,Australia,Pesticides,64.4,4.89,33.9,53,48.8,Corn,Integrated,Textile,Lake,Loamy,5.2,Neurological Disorder,Mild,Abdominal Pain,Adults,Male,Community Awareness,No,Yes
+CASE_100007,North America,Nigeria,Pesticides,11.71,8.14,19.1,69.7,124.7,Cotton,Organic,None,Lake,Sandy,5.44,Skin Disease,Mild,Breathing Difficulty,Children,Both,Chemical Neutralization,No,Yes
+CASE_100008,Australia,Brazil,Chromium,111.61,5.24,43.9,78.1,375.8,Soybean,Integrated,Agriculture,Rainwater,Sandy,9,Respiratory Issues,Mild,Abdominal Pain,Elderly,Female,Government Regulation,Yes,No
+CASE_100009,Europe,Brazil,Mercury,121.59,8.19,13.1,34.7,18.1,Wheat,Organic,Textile,Rainwater,Sandy,3.59,Cancer,Moderate,Breathing Difficulty,Children,Male,Soil Remediation,Yes,Yes
+CASE_100010,Australia,Brazil,Chromium,80.79,5.59,39,46.8,112.4,Wheat,Permaculture,Textile,Lake,Silty,5.66,Neurological Disorder,Mild,Breathing Difficulty,Children,Female,Government Regulation,Yes,No
+CASE_100011,Asia,India,Cadmium,32.48,7.71,12.6,94,308.9,Rice,Conventional,Mining,Lake,Clay,2.39,Skin Disease,Severe,Nausea,Adults,Both,Chemical Neutralization,Yes,No
+CASE_100012,Australia,Nigeria,Mercury,6.08,7.76,34.7,74.7,308.5,Cotton,Organic,Chemical,River,Clay,1.2,Skin Disease,Mild,Rash,Children,Female,Government Regulation,No,No
+CASE_100013,Australia,Pakistan,Cadmium,74.9,4.96,40.2,66.7,132.4,Rice,Organic,Textile,River,Clay,1.1,Gastrointestinal Disease,Mild,Fatigue,Elderly,Female,Soil Remediation,No,No
+CASE_100014,Europe,Germany,Pesticides,65.64,5.8,35.5,67.8,354.9,Rice,Permaculture,Textile,Well,Sandy,4.99,Skin Disease,Mild,Rash,Adults,Male,Chemical Neutralization,Yes,Yes
+CASE_100015,South America,Kenya,Mercury,28.32,7.35,36.6,62.1,308.4,Soybean,Conventional,Chemical,River,Loamy,5.19,Skin Disease,Mild,Fatigue,Children,Male,Chemical Neutralization,No,No
+CASE_100016,Australia,Germany,Mercury,106.93,6.21,10.9,28.1,12.6,Cotton,Integrated,Chemical,Lake,Loamy,6.55,Neurological Disorder,Moderate,Breathing Difficulty,Elderly,Female,Crop Rotation,No,No
+CASE_100017,Asia,Nigeria,Cadmium,66.3,6.53,41.8,38.7,164.2,Corn,Conventional,Mining,Lake,Loamy,7.68,Gastrointestinal Disease,Moderate,Rash,Elderly,Male,Community Awareness,No,No
+CASE_100018,Africa,Germany,Pesticides,49.62,4.81,20.1,32.1,371.9,Potato,Integrated,Agriculture,Well,Silty,8.18,Gastrointestinal Disease,Moderate,Breathing Difficulty,Children,Male,Soil Remediation,Yes,No
+CASE_100019,Africa,India,Mercury,128.51,7.99,38.1,34,357,Corn,Organic,Mining,Well,Loamy,5.62,Cancer,Moderate,Breathing Difficulty,Adults,Male,Government Regulation,No,Yes
+CASE_100020,Europe,Nigeria,Cadmium,162.45,8.08,21.1,28.3,91.2,Potato,Conventional,None,Irrigation Canal,Silty,4.56,Neurological Disorder,Mild,Rash,Adults,Male,Crop Rotation,Yes,No
+CASE_100021,Australia,Brazil,Mercury,164.51,7.94,10.2,58.3,167,Potato,Permaculture,Chemical,Well,Silty,2.61,Neurological Disorder,Mild,Fatigue,Adults,Female,Chemical Neutralization,No,No
+CASE_100022,South America,Mexico,Mercury,28.37,5.85,43,44.2,207.5,Corn,Integrated,Textile,Well,Sandy,7.18,Respiratory Issues,Moderate,Headache,Children,Male,Chemical Neutralization,No,No
+CASE_100023,Asia,India,Mercury,75.91,8.39,43.7,38.9,198.9,Potato,Conventional,None,Lake,Sandy,3.36,Respiratory Issues,Mild,Abdominal Pain,Elderly,Female,Chemical Neutralization,Yes,Yes
+CASE_100024,North America,Germany,Lead,60.54,4.65,31.3,57.7,20.6,Wheat,Organic,Agriculture,Well,Sandy,3.15,Skin Disease,Moderate,Nausea,Elderly,Female,Government Regulation,Yes,Yes
+CASE_100025,Africa,Brazil,Lead,182.11,5.46,15.1,56.7,394.3,Rice,Permaculture,None,Irrigation Canal,Silty,2.8,Neurological Disorder,Severe,Fatigue,Children,Male,Government Regulation,No,No
+CASE_100026,South America,Brazil,Arsenic,136.07,7.55,18.3,74.6,147.1,Corn,Organic,Mining,River,Sandy,6.51,Respiratory Issues,Moderate,Nausea,Adults,Both,Chemical Neutralization,No,No
+CASE_100027,Asia,Nigeria,Lead,128.54,6.64,13.2,82.6,128.3,Potato,Permaculture,Mining,River,Silty,2.27,Skin Disease,Moderate,Nausea,Adults,Female,Chemical Neutralization,Yes,Yes
+CASE_100028,South America,Pakistan,Arsenic,12.95,6.86,33.7,21.2,204.8,Wheat,Conventional,Agriculture,Well,Sandy,2.65,Gastrointestinal Disease,Severe,Fatigue,Children,Both,Community Awareness,No,No
